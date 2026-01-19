@@ -19,7 +19,7 @@
 
 ## Підключення одного 3-провідного тензодатчика до HX711
 Для 3-провідного датчика lj (A-) необхідно підключити через міст з двами резисторами 1к:
-- ((E-) -> (1k)) * ((E+) -> (1k)) -> (A-)
+- (Blk) -> (1k)) * ((Wht) -> (1k)) -> (A-)
 - https://youtu.be/LIuf2egMioA?t=511
 - https://www.youtube.com/watch?v=43xcnJxuvjY
 - https://github.com/Picaio/Hx711
