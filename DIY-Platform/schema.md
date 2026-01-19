@@ -23,6 +23,8 @@
 - ((E-) -> (1k)) * ((E+) -> (1k)) -> (A-)
 - https://youtu.be/LIuf2egMioA?t=511
 - https://www.youtube.com/watch?v=43xcnJxuvjY
+- https://github.com/Picaio/Hx711
+  
 ```text
         3-wire Load Cell                 HX711
       ┌─────────────────┐        ┌───────────────────┐
